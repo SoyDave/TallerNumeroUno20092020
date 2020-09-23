@@ -10,4 +10,4 @@ let calcularDistancia = (coordenadax,coordenaday) => {
     return (raizCuadrada);
 }
 
-    console.log(calcularDistancia(19, -119));
+    console.log (calcularDistancia(19, -119));

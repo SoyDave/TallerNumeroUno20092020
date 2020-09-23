@@ -7,8 +7,7 @@ function calcularDistancia(coordenadax,coordenaday){
 
     let raizCuadrada = Math.sqrt(sumaCuadrados);
 
-    return (raizCuadrada);
-    
+    return (raizCuadrada);    
 }
 
-console.log (calcularDistancia(19, -119));
+    console.log (calcularDistancia(19, -119));
